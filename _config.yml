@@ -72,3 +72,6 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+# Test
+category_list: [ nodejs, javascript, tip, diary, linux, chatbot, php ,publishing, jekyll, sql, error ]
